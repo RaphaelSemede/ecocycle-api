@@ -1,1 +1,0 @@
-# ecocycle-api
